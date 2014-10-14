@@ -2,10 +2,10 @@
  * Get all cross-source second degree connection combinations.
  * 
  * Assumptions:
- * 			Each connection combination is output at most once. 
- * 			For example, A is connected to C via PINTEREST, B is connected to C via FACEBOOK,
- * 				A is connected to E via PINTEREST, B is connected to E via FACEBOOK,
- * 				the pair [PINTEREST, FACEBOOK] is shown only once in the output.
+ * 		Each connection combination is output at most once. 
+ * 		For example, A is connected to C via PINTEREST, B is connected to C via FACEBOOK,
+ * 			A is connected to E via PINTEREST, B is connected to E via FACEBOOK,
+ * 			the pair [PINTEREST, FACEBOOK] is shown only once in the output.
  * 
  * @param user1 The first user.
  * @param user2 The second user.
